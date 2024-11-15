@@ -26,8 +26,6 @@ function NavBar2() {
       <Link to="/register">Register</Link>
       <Link to="/">Home</Link>
       </nav>
-
-
     </Router>
   );
 }
